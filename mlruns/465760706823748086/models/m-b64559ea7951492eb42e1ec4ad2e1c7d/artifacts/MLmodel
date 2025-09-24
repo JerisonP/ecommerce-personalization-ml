@@ -1,0 +1,22 @@
+artifact_path: file:///home/jerison_parra/stuff/portfolio_projects/AI_ML/ecommerce-personalization-ml/mlruns/465760706823748086/models/m-b64559ea7951492eb42e1ec4ad2e1c7d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-b64559ea7951492eb42e1ec4ad2e1c7d
+model_size_bytes: 18059
+model_uuid: m-b64559ea7951492eb42e1ec4ad2e1c7d
+prompts: null
+run_id: b91c639bbe4347cb9267eaa0d5775cf7
+utc_time_created: '2025-09-23 23:47:27.192863'
