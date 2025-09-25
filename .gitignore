@@ -1,0 +1,41 @@
+# Python/ML specifics
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+build/
+dist/
+*.egg
+
+# Environments
+env/
+venv/
+sklearn-env/
+ecommerce_ml/  # Your conda env if present
+.venv
+*.env
+
+# Data files (ignore CSVs in data/ to keep repo light; track via .gitkeep if needed)
+data/*.csv
+data/*.parquet  # If using other formats later
+
+# Notebooks and outputs
+*.ipynb_checkpoints/
+# Optionally ignore notebook outputs if large: *output.ipynb (but keep for repro if needed)
+
+# Logs/MLflow (if not tracking experiments in repo)
+mlruns/
+mlflow.db
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large/temp files
+*.tmp
+*.log
+*.cache
