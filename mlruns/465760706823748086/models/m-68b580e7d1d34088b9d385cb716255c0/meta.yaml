@@ -1,0 +1,10 @@
+artifact_location: file:///home/jerison_parra/stuff/portfolio_projects/AI_ML/ecommerce-personalization-ml/mlruns/465760706823748086/models/m-68b580e7d1d34088b9d385cb716255c0/artifacts
+creation_timestamp: 1758768859063
+experiment_id: '465760706823748086'
+last_updated_timestamp: 1758768861415
+model_id: m-68b580e7d1d34088b9d385cb716255c0
+model_type: null
+name: kmeans_model
+source_run_id: a580034b4c784177a1885acdb026a23c
+status: 2
+status_message: null

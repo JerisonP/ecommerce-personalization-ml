@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jerison_parra/stuff/portfolio_projects/AI_ML/ecommerce-personalization-ml/mlruns/465760706823748086/a580034b4c784177a1885acdb026a23c/artifacts
+end_time: 1758768861427
+entry_point_name: ''
+experiment_id: '465760706823748086'
+lifecycle_stage: active
+run_id: a580034b4c784177a1885acdb026a23c
+run_name: KMeans_RFM_k4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758768858795
+status: 3
+tags: []
+user_id: jerison_parra
